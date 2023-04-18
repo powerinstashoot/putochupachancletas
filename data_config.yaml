@@ -2,5 +2,5 @@ colors:
 - [81, 210, 201]
 names: [tattoo2]
 nc: 1
-train: /kaggle/input/importimageswithval/importImagesWithVal/images/train
-val: /kaggle/input/importimageswithval/importImagesWithVal/images/val
+train: /images/train
+val: /images/val
